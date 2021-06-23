@@ -1,0 +1,21 @@
+{
+  "name": "coding_challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "AlyneRefactroingCodingTest.js",
+
+  "scripts": {
+    "start:dev": "nodemon AlyneRefactroingCodingTest"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-jest": "^27.0.2",
+    "jest": "^27.0.4",
+    "ts-jest": "^27.0.3"
+  }
+}
